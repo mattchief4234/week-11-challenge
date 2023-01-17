@@ -1,0 +1,6 @@
+{
+    "name": "Note Taker",
+    "description": "note Taking APplication using Express",
+    "respository": "https://github.com/mattchief4234/week-11-challenge",
+    "keywords": ["node", "express", "notes"]
+}
