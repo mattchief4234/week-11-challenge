@@ -4,12 +4,26 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
-    "author": "",
+    "author": "Matthew Webb",
     "license": "ISC",
     "dependencies": {
         "express": "^4.16.4",
-        "inquirer": "^9.1.4"
-    }
+        "inquirer": "^9.1.4",
+        "uuid": "8.3.2"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattchief4234/week-11-challenge"
+    },
+    "keywords": [
+        "notes"
+    ],
+    "bugs": {
+        "url": "https://github.com/mattchief4234/week-11-challenge"
+    },
+    "homepage": "https://github.com/mattchief4234/week-11-challenge/blob/main/README.md"
 }
